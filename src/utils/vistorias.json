@@ -1,0 +1,78 @@
+{
+  "residences": [
+    {
+      "id": 1,
+      "residence_name": "Residencial San Marino",
+      "construction_company": "Casa Valiosa Inc.",
+      "vistorias": [
+        {
+          "id": 1,
+          "title": "Vistoria 1",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": true
+        },
+        {
+          "id": 2,
+          "title": "Vistoria 2",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": false
+        },
+        {
+          "id": 3,
+          "title": "Vistoria 3",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "residence_name": "Residencial Água Marinha",
+      "construction_company": "Casa Valiosa Inc.",
+      "vistorias": [
+        {
+          "id": 4,
+          "title": "Vistoria 1",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": true
+        },
+        {
+          "id": 5,
+          "title": "Vistoria 2",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": false
+        },
+        {
+          "id": 6,
+          "title": "Vistoria 3",
+          "block": "01",
+          "paviment": 2,
+          "delivery_date": "22/03/2020",
+          "incidents": 6,
+          "name": "Baldrame",
+          "check": false
+        }
+      ]
+    }
+  ]
+}
